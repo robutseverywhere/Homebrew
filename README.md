@@ -4,6 +4,14 @@
 
 [Homebrew on Github](https://github.com/Homebrew/brew)
 
+# View system info. with Archey.
+
+archey -c
+
+# Or in black and white.
+
+archey -b
+
 
 ## A big thank you to reddit user u/Serif for the majority of this list.
 
